@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>林鸿新</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://hooxins.github.io/</id>
+  <link href="https://hooxins.github.io/" rel="alternate"/>
+  <link href="https://hooxins.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, 林鸿新</rights>
+  <subtitle>人生皆苦，唯有自渡。</subtitle>
+  <title>Hooxin's Blog</title>
+  <updated>2026-09-26T02:55:08.646Z</updated>
+  <entry>
+    <author>
+      <name>林鸿新</name>
+    </author>
+    <category term="随笔" scheme="https://hooxins.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="Hexo" scheme="https://hooxins.github.io/tags/Hexo/"/>
+    <category term="博客搭建" scheme="https://hooxins.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <content>
+      <![CDATA[<p>从最早接触网站搭建至今，一晃已是十多年。这些年断断续续折腾过很多次个人博客，也陆续注册、搭建、迁移过多个域名，包括 <strong>668090.com、8151.wang、hooxins.com</strong> 等。每一次搭建都是一次学习，也是一次对个人小天地的重新整理。</p><p>一路走来，从懵懂摸索到慢慢熟悉，始终想要一个属于自己的、干净、安静的独立博客空间，用来记录生活、沉淀学习、存放随笔与思考。</p><p>本次全新搭建的个人博客，采用 <strong>Hexo 静态博客框架 + GitHub Pages 免费部署</strong> 的方式完成。说实话，我在博客搭建、代码部署方面完全属于小白，很多配置、部署、主题调试、评论系统搭建都一知半解，全程几乎从零开始。</p><p>好在全程借助 AI 一步步指导，从解决报错、修复配置冲突、更换主题、部署静态页面，到最后成功接入 <strong>Waline 独立评论系统</strong>，实现访客自由留言、无需 GitHub 账号即可评论，最终顺利完成整套博客搭建工作。</p><p>如今博客已完全成型：页面正常访问、文章正常发布、评论功能正常使用，支持随时新增、修改、删除文章，也支持电脑、手机双端更新维护，真正拥有了属于自己的稳定独立博客。</p><p>如果你也和曾经的我一样，<strong>想拥有一个完全属于自己的独立博客，但不懂代码、不会部署、零基础小白</strong>，完全不用畏惧。</p><p>你也可以直接向 AI 提问，一步步跟着指导操作，从零完成 Hexo 博客搭建、部署上线、评论配置与日常维护。零基础也能顺利搭建属于自己的个人博客站点。</p><p>往后，就在这里，慢慢记录、慢慢沉淀、慢慢更新。</p>]]>
+    </content>
+    <id>https://hooxins.github.io/2026/09/26/%E5%AE%8C%E6%88%90%E6%90%AD%E5%BB%BA%E5%85%A8%E6%96%B0%E7%8B%AC%E7%AB%8B%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://hooxins.github.io/2026/09/26/%E5%AE%8C%E6%88%90%E6%90%AD%E5%BB%BA%E5%85%A8%E6%96%B0%E7%8B%AC%E7%AB%8B%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <published>2026-09-26T07:30:00.000Z</published>
+    <summary>
+      <![CDATA[<p>从最早接触网站搭建至今，一晃已是十多年。这些年断断续续折腾过很多次个人博客，也陆续注册、搭建、迁移过多个域名，包括 <strong>668090.com、8151.wang、hooxins.com</strong>]]>
+    </summary>
+    <title>完成搭建全新独立个人博客</title>
+    <updated>2026-09-26T02:55:08.646Z</updated>
+  </entry>
+</feed>
