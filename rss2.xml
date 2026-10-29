@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hooxin's Blog</title>
+    <link>https://hooxins.cc/</link>
+    <description>人生皆苦，唯有自渡。</description>
+    <language>zh-CN</language>
+    <copyright>All rights reserved 2026, 林鸿新</copyright>
+    <lastBuildDate>Wed, 28 Oct 2026 13:38:16 GMT</lastBuildDate>
+    <generator>Hexo</generator>
+    <atom:link href="https://hooxins.cc/rss2.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>国庆游记</title>
+      <link>https://hooxins.cc/2026/10/10/%E5%9B%BD%E5%BA%86%E6%B8%B8%E8%AE%B0/</link>
+      <description>
+        <![CDATA[<p>中秋与国庆的热闹慢慢落幕，随手记下这段假期的细碎日常。<br>这个国庆的天气不算理想，连日雷阵雨，总闷在家里。十月五日早晨，实在按捺不住，便打算带着一家人去汕头小公园走走。妻子要先去银行办事，一路耽搁，直到下午三点多才动身。</p>
+<p>这两年潮汕文化热度渐高，尤其今年《给阿嬷的情书》收获不少好评，吸引了四面八方的游客奔赴潮汕，看英歌、寻小吃、感受侨乡风情。假期里的小公园，自然也是游人如织。<br>我们自驾前往，就近的停车场早早满位，只能继续往前，开到较远的西堤露天停车场，偌大的场地也几乎停满。下车后沿着老街随意闲逛，沿街大多是文创商铺，风格和揭阳古城、棉湖解放路大同小异，看多了，少了]]>
+      </description>
+      <author>林鸿新</author>
+      <category domain="https://hooxins.cc/categories/%E9%9A%8F%E7%AC%94/">随笔</category>
+      <category domain="https://hooxins.cc/tags/%E6%97%85%E6%B8%B8/">旅游</category>
+      <pubDate>Sat, 10 Oct 2026 04:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>完成搭建全新独立个人博客</title>
+      <link>https://hooxins.cc/2026/09/26/%E5%AE%8C%E6%88%90%E6%90%AD%E5%BB%BA%E5%85%A8%E6%96%B0%E7%8B%AC%E7%AB%8B%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <description>
+        <![CDATA[<p>从最早接触网站搭建至今，一晃已是十多年。这些年断断续续折腾过很多次个人博客，也陆续注册、搭建、迁移过多个域名，包括 <strong>668090.com、8151.wang、hooxins.com</strong> 等。每一次搭建都是一次学习，也是一次对个人小天地的重新整理。</p>
+<p>一路走来，从懵懂摸索到慢慢熟悉，始终想要一个属于自己的、干净、安静的独立博客空间，用来记录生活、沉淀学习、存放随笔与思考。</p>
+<p>本次全新搭建的个人博客，采用 <strong>Hexo 静态博客框架 + GitHub Pages 免费部署</strong>]]>
+      </description>
+      <author>林鸿新</author>
+      <category domain="https://hooxins.cc/categories/%E9%9A%8F%E7%AC%94/">随笔</category>
+      <category domain="https://hooxins.cc/tags/Hexo/">Hexo</category>
+      <category domain="https://hooxins.cc/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/">博客搭建</category>
+      <pubDate>Sat, 26 Sep 2026 07:30:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
